@@ -16,6 +16,7 @@ class EnemyTest {
             enemy.attack(hero); //乱数で0ダメージとなることもあるため、複数回実行してみる。
         }
         assertEquals(heroHP, hero.hitPoint);
+        
 
     }
 }
