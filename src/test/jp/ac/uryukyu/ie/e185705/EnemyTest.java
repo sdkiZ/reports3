@@ -17,6 +17,5 @@ class EnemyTest {
         }
         assertEquals(heroHP, hero.hitPoint);
 
-
     }
 }
